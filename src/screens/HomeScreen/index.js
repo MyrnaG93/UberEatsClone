@@ -17,5 +17,6 @@ export default function App() {
 const styles = StyleSheet.create({
   page: {
     padding: 10,
+    marginBottom: 30,
   },
 });
